@@ -80,11 +80,11 @@ main{
 .previews{
     background-color:black;
     outline:3px solid red;
-    width:60%;
+    width:62%;
     min-height:60%;
     position:fixed;
     left:20%;
-    top:120px;
+    top:100px;
     float:left;
     text-align: center;
     text-shadow: -1.5px 0 2px black, 0 1.5px 2px black, 1.5px 0 2px black, 0 -1.5px 2px black;
