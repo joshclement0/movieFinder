@@ -8,9 +8,11 @@
     min-width: 375px;
 }
 .floating-menu-top h1{
-    margin-left: 20px;
+    margin:0;
+    padding:0;
+    top:16px;
+    left:50px;
     color:red;
-    width:80%;
 }
 .floating-menu-top form{
     position:absolute;
@@ -92,16 +94,19 @@ main{
 }
 .previews h2{
     position:absolute;
-    top:5px;
+    top:8px;
     left:12px;
     color:red;
+    padding:0;
+    margin:0;
 }
 .previews .closebtn{
     position:absolute;
     top:5px;
-    right:20px;
+    right:12px;
     font-size: large;
     color:red;
+    margin:0;
 }
 .previews p1{
     position:absolute;
